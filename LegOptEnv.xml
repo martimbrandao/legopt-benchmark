@@ -1,0 +1,9 @@
+<Environment>
+  <KinBody name="garage_easier">
+    <Body type="static" name="body">
+      <Geom type="trimesh">
+        <Render>destruction_scenarios/destruction_scenarios/worlds/garage/garage_easier.stl</Render>
+      </Geom>
+    </Body>
+  </KinBody>
+</Environment>
