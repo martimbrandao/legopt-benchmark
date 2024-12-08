@@ -185,9 +185,9 @@ You can follow [these](https://scaron.info/teaching/installing-openrave-on-ubunt
 ### Downloading the additional data
 
 If you just want the problem definition data, then the JSON files are already inside the *data* folder.
-However, if you would like to compare the performance of your algorithms using the same problem initializations as I did, please use [these files](http://extra.martimbrandao.com/dl.php?id=124). The files are equivalent to the ones under the *data* folder, except for additional *x0* and *x0hard* variables on each problem (same format as the solution variable *x*).
+However, if you would like to compare the performance of your algorithms using the same problem initializations as I did, please use [these files](https://drive.google.com/file/d/1dXwj3fLhbBwARMPeEt1q5pVps3Hyzsqp/view?usp=drive_link). The files are equivalent to the ones under the *data* folder, except for additional *x0* and *x0hard* variables on each problem (same format as the solution variable *x*).
 
-If you would like to try and run the scripts on my solutions, you can download them from [here](http://extra.martimbrandao.com/dl.php?id=126), and place the contents (a folder called *solutions12-full-with-easy-and-hard-init*) inside *solutions/*.
+If you would like to try and run the scripts on my solutions, you can download them from [here](https://drive.google.com/file/d/12fcboCmJqVZCs0OCQu4KQEiur-WZqvuo/view?usp=drive_link), and place the contents (a folder called *solutions12-full-with-easy-and-hard-init*) inside *solutions/*.
 
 ### Evaluating your benchmark solutions
 
